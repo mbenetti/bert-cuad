@@ -1,5 +1,7 @@
 # bert-cuad
-Bert on CUAD using notebooks
+### Bert on CUAD using notebooks
+
+
 
 This repository contains 3 jupyter notebook with the steps to download the original repositoy of the Atticus Project, the steps to download the model and to install the dependencies.
 
