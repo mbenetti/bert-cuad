@@ -1,8 +1,19 @@
-# bert-cuad
+## Using Bert models trainned on CUAD  for contract review using Jupyter Notebooks
 
-### Bert on CUAD using Jupyter Notebooks
+<img align="left" src="https://user-images.githubusercontent.com/27162948/173199085-08509c5e-ea93-4f10-8b9b-15aa143c4b1c.jpeg">
 
-![bert](https://user-images.githubusercontent.com/27162948/172364648-4587b7b2-7d37-4429-aa48-565d2049e5ab.jpeg)
+
+### What does contract review entail?
+
+When it comes to contract review, a lawyer’s job is to manually review hundreds of pages of contracts to find the relevant clauses or obligations stipulated in a contract. It is repetitive because they always need to identify the same data points in any given contract: What is effective date of the contract? What are the renewal terms? Who are the parties involved in this contract?
+
+Law firms are under enormous pressure to reduce their costs, especially during and after COVID times. With the latest advances in Natural Language Processing (NLP), machine learning models can learn to automatically extract and identify key clauses from contracts, thus saving hundreds of hours of manual labour.
+
+### What is the CUAD Dataset?
+
+In March 2021, the Atticus Project released the Contract Understanding Atticus Dataset (CUAD), which consists of over 500 contracts, each carefully labelled by legal experts, to identify 41 different types of important clauses, for a total of more than 13,000 annotations. Alongside the dataset, they also published several state-of-the-art Transformer models that have been trained on the dataset. You can find the dataset and the training code at their GitHub repo, and the fine-tuned models can be downloaded from Zenodo.
+
+### What is the BERT for CUAD?
 
   BERT stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.
 
