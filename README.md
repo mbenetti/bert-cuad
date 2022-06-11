@@ -24,7 +24,7 @@ https://github.com/TheAtticusProject/cuad
 
 https://huggingface.co/datasets/cuad
 
-*Bert models licences Apache License 2.0*
+*Bert models are under Apache License 2.0*
 
 ** ** 
 **Benetti Mauro 05.2022**
