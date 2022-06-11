@@ -23,7 +23,7 @@ In March 2021, the Atticus Project released the Contract Understanding Atticus D
 
 Notebook 3 contains an implementation of Tesseract OCR. With Tesseract is possible to extract the text from an image to later feed the model with that text.
 
-**Project:** 
+**Atticus project:** 
 
 https://www.atticusprojectai.org/cuad
 
@@ -31,7 +31,7 @@ https://www.atticusprojectai.org/cuad
 
 https://github.com/TheAtticusProject/cuad
 
-**CUAD Dataset:** 
+**CUAD Dataset and models:** 
 
 https://huggingface.co/datasets/cuad
 
@@ -39,6 +39,8 @@ https://huggingface.co/datasets/cuad
 
 ** ** 
 **Benetti Mauro 05.2022**
+
+https://www.maurobenetti.ml/
 
 **License: CC BY 4.0** 
 
