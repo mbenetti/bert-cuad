@@ -1,4 +1,4 @@
-## Using Bert models trainned on CUAD  for contract review using Jupyter Notebooks
+## Using Bert models trainned on CUAD (Contract Understanding Atticus Dataset) for contract review using Jupyter Notebooks
 
 <img align="left" src="https://user-images.githubusercontent.com/27162948/173199085-08509c5e-ea93-4f10-8b9b-15aa143c4b1c.jpeg">
 
