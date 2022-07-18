@@ -3,7 +3,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/27162948/173199085-08509c5e-ea93-4f10-8b9b-15aa143c4b1c.jpeg">
 
 
-### What does contract review entail?
+### What does contract review entail?  
 
 When it comes to contract review, a lawyer’s job is to manually review hundreds of pages of contracts to find the relevant clauses or obligations stipulated in a contract. It is repetitive because they always need to identify the same data points in any given contract: What is effective date of the contract? What are the renewal terms? Who are the parties involved in this contract?
 
