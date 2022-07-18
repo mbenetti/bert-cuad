@@ -45,7 +45,7 @@ https://huggingface.co/datasets/cuad
 
 ***
 <sup><sub>
-Images from https://pixabay.com *(Free for commercial use, No attribution required )*
+Images from: pixabay.com, stocksnap.io and unsplash.com *(Free for commercial use, No attribution required )*
 </sub></sup>
 
 <sup><sub>
